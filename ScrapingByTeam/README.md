@@ -1,0 +1,1 @@
+Each file showcases how I went about scraping the stats for each team within the years 2019-2025. If you are following along, you must change the team in scrape_rpi_football_stats function to the name of the team you are scraping.
